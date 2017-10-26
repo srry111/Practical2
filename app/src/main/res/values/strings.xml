@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practical2</string>
+    <string name="Weight">Weight(kg)</string>
+    <string name="Height">Height(cm)</string>
+    <string name="BMI">BMI : #</string>
+    <string name="Calculate">Calculate</string>
+    <string name="Reset">Reset</string>
+</resources>
